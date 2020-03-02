@@ -37,4 +37,4 @@ chmod +x ~/wdpassport-utils.py
 
 
 #### reference
-(How to unlock `WD My Passport Drive` on Linux)[https://blog.bestcoding.net/en/unlock-wd-passport-drive-linux/]
+[How to unlock `WD My Passport Drive` on Linux](https://blog.bestcoding.net/en/unlock-wd-passport-drive-linux/)
